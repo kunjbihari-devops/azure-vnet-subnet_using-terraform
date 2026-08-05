@@ -4,7 +4,7 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
-!Parent_Module/terraform.tfvars
+!**/terraform.tfvars
 
 # Crash log files
 crash.log
